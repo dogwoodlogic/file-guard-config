@@ -1,22 +1,21 @@
 {
   "name": "@dlinc/file-guard-config",
-  "version": "1.2.1-0",
   "description": "",
+  "version": "1.2.1",
+  "author": "Dogwood Logic, Inc.",
   "bin": "lib/index.js",
-  "type": "module",
-  "author": "",
-  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dogwoodlogic/file-guard-config/issues"
+  },
   "dependencies": {
     "@dotenvx/dotenvx": "^1.9.1",
     "boolean": "^3.2.0",
     "bytes": "^3.1.2",
     "comma-separated-tokens": "^2.0.3",
-    "fs-extra": "^11.2.0",
     "lodash-es": "^4.17.21",
     "micromatch": "^4.0.7",
     "omit-empty": "^1.0.0",
-    "yargs": "^17.7.2",
-    "zod": "^3.23.8"
+    "yargs": "^17.7.2"
   },
   "devDependencies": {
     "eslint": "^8.56.0",
@@ -24,8 +23,15 @@
     "eslint-plugin-jsdoc": "^48.1.0",
     "eslint-plugin-unicorn": "^51.0.1"
   },
+  "homepage": "https://github.com/dogwoodlogic/file-guard-config",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dogwoodlogic/file-guard-config"
+  },
   "scripts": {
     "lint": "npx eslint 'packages/**.js'",
     "lint:fix": "npx eslint 'packages/**.js'--fix"
-  }
+  },
+  "type": "module"
 }

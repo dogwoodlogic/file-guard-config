@@ -1,7 +1,5 @@
 # file-guard-config
 
-[![Latest version of '@dlinc/file-guard-config' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/dogwoodlogic/dlinc/npm/@dlinc/file-guard-config/latest/x/?render=true&show_latest=true&badge_token=gAAAAABmzMJ7yFPXjpdHKGaXD0Cfx1yWVI7JXqIa8K4cezpmV3k_NbfRCXg8D0KUzSPozj1nmFNVDC9zFlsXeoF9BdeXCjODfv4G4aZpDK1IreEwkRfLkoc%3D)](https://cloudsmith.io/~dogwoodlogic/repos/dlinc/packages/detail/npm/@dlinc%252Ffile-guard-config/latest/)
-
 A JS script as a git hook that can be used to prevent
 
 - Files over a certain size from being pushed
