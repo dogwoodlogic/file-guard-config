@@ -1,6 +1,6 @@
 {
-  "name": "@dogwoodlogic/file-guard-config",
-  "version": "1.0.1-0",
+  "name": "@dlinc/file-guard-config",
+  "version": "1.1.0",
   "description": "",
   "bin": "lib/index.js",
   "type": "module",

@@ -1,6 +1,12 @@
 # Changelog
 
-## 1.0.0 - 2023-08-22
+## 1.1.0 - 2024-08-26
+
+### Changed
+
+- Published to cloudsmith under new namespace.
+
+## 1.0.0 - 2024-08-22
 
 ### Added
 
