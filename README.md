@@ -1,5 +1,8 @@
 # file-guard-config
 
+![NPM Version](https://img.shields.io/npm/v/%40dlinc%2Ffile-guard-config)
+
+
 A JS script as a git hook that can be used to prevent
 
 - Files over a certain size from being pushed
