@@ -1,6 +1,6 @@
 {
   "name": "@dlinc/file-guard-config",
-  "version": "1.1.1-0",
+  "version": "1.2.0",
   "description": "",
   "bin": "lib/index.js",
   "type": "module",

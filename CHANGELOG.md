@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.0 - 2024-08-26
+
+### Added
+
+- Added support for comma separated glob tokens.
+
 ## 1.1.0 - 2024-08-26
 
 ### Changed
